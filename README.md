@@ -2,11 +2,11 @@
 
 ## Um mural de avisos com as seguintes tecnologias:
 <div style="display=inline-block">
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript"width="50px" height="50px" >
-<img src="https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png" alt="html"width="50px" height="50px" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50px" height="50px" >
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50px" height="50px" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
+<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="200px" height="100px" >
+<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="200px" height="100px" >
+<img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="200px" height="100px" >
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="200px" height="100px" >
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="200px" height="100px" >
  </div>
 
 ## Funcionalidades:
@@ -21,6 +21,11 @@
 
 ## Apresentação do Pojeto:
 - <img src="./gf.gif">
+
+## Observação:
+- Não consegui subir o porjeto, mas ele está disponível no google drive: https://drive.google.com/file/d/1HstdatGzxHqFSj4atuEo7sPhnPKsFyBz/view?usp=sharing
+- Para rodar apenas basta baixar e no terminal colocar: npm start
+- Pronto, fazendo esses passos você pode testar a aplicação
 
 ## Gostou do meu projeto? :D Entre em contato comigo! 
 - [Linkedin](https://www.linkedin.com/in/abner-santos-b195b8228/) <br/>
