@@ -12,6 +12,7 @@
 ## Funcionalidades:
 - Login e Registro do usuário no Banco de dados
 - Senhas e emails criptografados e cookies para logar usuário automaticamente ao entrar na página
+- Totalmente Responsivo
 
 ## Descrição:
 - Para testar as skills que venho adquirindo ao longo do curso ProgramadorBR, em conjunto com o projeto desenvolvido pelo curso, fiz uma aplicação onde faz o login e registro de usuários, sendo assim uma ação em conjunto entre bak-end, front-end e banco de dados. O projeto além disso conta com criptografia de senhas e email ao registrar com o auxílio do bcrypt e também conta com o sistema de cookies para salvar o token no local-storage do usuário.
