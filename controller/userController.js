@@ -36,12 +36,12 @@ if(error){
   //send(error.message)
 }
       const selectedUser = await User.findOne({email:req.body.email})
-      if(!selectedUser) return res.status(400).send("Email or Password incorrect")
-      //render('init', {error, body: req.body})
+      if(!selectedUser) return res.status(400).render('init', {error{message: "Email or Password incorrect"}, body: req.body})
+      //render('init', {error{message: "Email or Password incorrect"}, body: req.body})
       
       const passwordAndUserMatch = bcrypt.compareSync(req.body.password, selectedUser.password)
       if(!passwordAndUserMatch){
-        return res.status(400).send("Email or Password incorrect")
+        return res.status(400).render('init', {error{message: "Email or Password incorrect"}, body: req.body})
         //render('init', {error, body: req.body})
       }
 
